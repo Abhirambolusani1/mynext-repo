@@ -1,2 +1,1 @@
-# mynext-repo
-something just started learning
+This is my first repo
